@@ -133,7 +133,7 @@ export default ({ children, location }) => (
               target="_blank"
               href="https://gatsbyjs.org"
               style={{
-                color: '#191919',
+                color: '#FBFBFB',
                 boxShadow: 'none',
               }}
             >
@@ -152,7 +152,7 @@ export default ({ children, location }) => (
               target="_blank"
               href="https://cosmicjs.com"
               style={{
-                color: '#191919',
+                color: '#FBFBFB',
                 boxShadow: 'none',
               }}
             >
